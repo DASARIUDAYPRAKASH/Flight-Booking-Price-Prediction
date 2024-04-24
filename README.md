@@ -163,7 +163,7 @@ Here we have chosen different model’s that can predict the price of the flight
 
 •	Based on the analysis conducted and the model’s performance on the dataset, it can be concluded that the Liner Regression for predicting Ticket Prices and Decision Tree Regressor and Random Forest Regressor will be fit and suitable for predicting the flight ticket booking price.
 
-#### In Linear Regression we got the evaluation matrix.
+### In Linear Regression we got the evaluation matrix.
 
 •	 r2_Score:                                               0.9049847760699258
 
@@ -175,7 +175,7 @@ Here we have chosen different model’s that can predict the price of the flight
 
 •	RMSE:                                                    6995.071726026178
 
-#### In Decision Tree Regressor we got the evaluation matrix.
+### In Decision Tree Regressor we got the evaluation matrix.
 
 •	r2_Score:                                                0.9761309874775854
 
@@ -187,7 +187,7 @@ Here we have chosen different model’s that can predict the price of the flight
 
 •	RMSE:                                                    3506.0071711569026
 
-#### In Random Forest Regressor we got the evaluation matrix.
+### In Random Forest Regressor we got the evaluation matrix.
 
 •	r2_Score:                                                0.9852298788429149
 
